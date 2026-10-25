@@ -147,4 +147,10 @@ Projeto educacional desenvolvido para o **RodRobot**, com foco em eletrônica, m
 
 Blog: [https://rodrobot.blogspot.com/p/projetos.html/](https://rodrobot.blogspot.com/p/projetos.html)
 
+## 📺 Vídeo tutorial no YouTube
+
+Assista ao vídeo para acompanhar a montagem e a configuração do projeto passo a passo.
+
+▶️ **[ESP32-C6 e ESP32-H2 — Tutorial no YouTube](https://www.youtube.com/watch?v=PTjINxsFHuM&t=58s)**
+
 **RodRobot — Aprenda, monte e programe!**
