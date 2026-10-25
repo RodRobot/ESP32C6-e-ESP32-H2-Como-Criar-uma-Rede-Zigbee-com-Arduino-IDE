@@ -145,6 +145,6 @@ Este projeto pode servir como ponto de partida para desenvolver:
 
 Projeto educacional desenvolvido para o **RodRobot**, com foco em eletrônica, microcontroladores, IoT, robótica e automação.
 
-Blog: [https://rodrobot.blogspot.com/](https://rodrobot.blogspot.com/p/projetos.html)
+Blog: [https://rodrobot.blogspot.com/p/projetos.html/](https://rodrobot.blogspot.com/p/projetos.html)
 
 **RodRobot — Aprenda, monte e programe!**
